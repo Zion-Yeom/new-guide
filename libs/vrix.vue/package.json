@@ -1,0 +1,13 @@
+{
+    "name": "vrix.vue",
+    "version": "1.3.1",
+    "description": "Vue.js wrapper for Vrix.js.",
+    "main": "dist/vrix.vue.cjs.js",
+    "unpkg": "dist/vrix.vue.umd.js",
+    "module": "dist/vrix.vue.esm.js",
+    "typings": "dist/vrix.vue.d.ts",
+    "files": [
+        "dist/**",
+        "README.md"
+    ]
+}

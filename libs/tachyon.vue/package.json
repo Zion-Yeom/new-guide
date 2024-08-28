@@ -1,0 +1,14 @@
+{
+    "name": "tachyon.vue",
+    "version": "1.1.4",
+    "description": "tachyon.js wrapper for tachyon.js.",
+    "main": "dist/tachyon.vue.cjs.js",
+    "unpkg": "dist/tachyon.vue.umd.js",
+    "module": "dist/tachyon.vue.esm.js",
+    "typings": "dist/tachyon.vue.d.ts",
+    "types": "dist/tachyon.vue.d.ts",
+    "dependencies": {
+        "vue": "^3.2.37"
+    },
+    "private": true
+}
